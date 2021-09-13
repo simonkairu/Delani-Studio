@@ -1,0 +1,175 @@
+/*style the home section*/
+
+.home{
+    background-image: url(images/backgrounds/h_img.jpg);
+    height: 120vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+.home{
+    text-align: center;
+}
+
+
+
+.mouse{
+    margin-top: 6em;
+}
+
+.mouse img{
+padding-top: 9em;
+}
+
+
+.how{
+    position: absolute;
+    top: 60%;
+    left: 57%;
+    transform: translate(-50%, -50%);
+
+  }
+
+
+/*style about section*/
+.about{
+    text-align: center;
+  
+}
+   
+
+
+/*style services section*/
+.services{
+    text-align: center;
+    background-image: url(images/backgrounds/s_image.jpg);
+    height: 40vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 5em;
+}
+.sec{
+  padding-top: 5em;
+}
+
+/*style what we do*/
+.what {
+  width: 100%;
+  padding-top: 5%;
+  padding-bottom: 1%;
+  text-align: center;
+  
+}
+
+
+#dv_text,
+#dis_text,
+#pdt_text {
+  display: none;
+}
+.row {
+  margin-bottom: 10px;
+}
+
+.col-md-12 {
+  height: 100%;
+  width: 100%;
+  padding: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+}
+
+
+
+.port{
+    text-align: center;
+    
+}
+
+
+
+.card {
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 20pt;
+  font-weight: 700;
+}
+
+.text {
+  display: none;
+}
+
+
+
+
+/*style the contact section*/
+.contactUs {
+  padding: 5%;
+  background-image: url("assets/backgrounds/c_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: white;
+}
+/*style button on the contact form */
+#btn {
+  text-align: center;
+  margin-top: 10px;
+}
+
+#btn :hover{
+  color: green;
+  border-color: green;
+  background: green;
+}
+
+/* set inputfields transparent */
+input[type=text],
+input[type=email],
+#yMessage {
+  background-color: transparent;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  color: white;
+}
+
+/* style placeholder */
+.form-control::-webkit-input-placeholder {
+  color: white;
+}
+
+input.btn {
+  height: 45px;
+}
+
+input {
+  height: 60px;
+}
+
+
+
+/*style icons*/
+.icons img{
+    text-align: center;
+    transition: 0.3s;
+}
+.icons a:hover  img{
+transform: translateY(-15px);
+
+}
+
+/* style placeholder */
+footer{
+    text-align: center;
+}
+
