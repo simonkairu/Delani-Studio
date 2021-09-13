@@ -28,3 +28,6 @@ There are currently no known bugs
 5 Git
 
 6 JQuery
+
+## Support and contact details
+Incase of any support or any idea on how the website can be improved kindly email  simonkairu14@gmail.com
