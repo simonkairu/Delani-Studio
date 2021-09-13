@@ -15,3 +15,16 @@ You can then run it using any code editor that you like
 
 ## Known Bugs
 There are currently no known bugs 
+
+## Technologies Used
+1 HTML(Hypertext Mark-up Language)
+
+2 CSS (Cascading Style Sheet)
+
+3 Bootstrap
+
+4 javascript
+
+5 Git
+
+6 JQuery
