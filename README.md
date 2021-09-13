@@ -12,3 +12,6 @@ Type $ git clone then paste https://github.com/simonkairu/Delani-Studio.git
 Enter to create your local clone.
 This will clone the repositoty into your local folder in your laptop.
 You can then run it using any code editor that you like
+
+## Known Bugs
+There are currently no known bugs 
