@@ -133,7 +133,7 @@ padding-top: 9em;
   background: green;
 }
 
-/* set inputfields transparent */
+/* will add transparent effect to inputfields  */
 input[type=text],
 input[type=email],
 #yMessage {
@@ -143,7 +143,7 @@ input[type=email],
   color: white;
 }
 
-/* style placeholder */
+/* will add style to the  placeholder */
 .form-control::-webkit-input-placeholder {
   color: white;
 }
@@ -158,7 +158,7 @@ input {
 
 
 
-/*style icons*/
+/*will add style to  icons*/
 .icons img{
     text-align: center;
     transition: 0.3s;
@@ -168,7 +168,7 @@ transform: translateY(-15px);
 
 }
 
-/* style placeholder */
+/* will style the footer section */
 footer{
     text-align: center;
 }
